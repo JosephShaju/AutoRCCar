@@ -1,7 +1,7 @@
 const int r = 9;             //connect red led at pin 9    
 const int y = 10;           //connect yellow led at pin 10
 const int g = 11;           //connect green led at pin 11
-const int sec = 1000;       //seconds defined 
+const int sec = 1500;       //seconds defined 
 void setup() 
   {
     pinMode(r,OUTPUT);
